@@ -25,8 +25,8 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone <repository-url>
-cd ai_chat_flutter
+git clone https://github.com/Red-White-Dragon/AI_CHAT_Flutter.git
+cd AI_CHAT_Flutter
 ```
 
 ### 2. Установка зависимостей
